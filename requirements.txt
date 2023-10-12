@@ -1,0 +1,12 @@
+matplotlib>=3.6.2
+numpy>=1.23
+pandas>=1.5.1
+# When bumping plotly, remember to also bump plotlyjs in docs/_static/custom.js.
+plotly>=5.11.0
+pymatching>=2.0.1
+PyYAML>=6.0
+pylatexenc
+seaborn>=0.12.1
+toml>=0.10
+tqdm>=4.62.3
+joblib>=1.0.1
